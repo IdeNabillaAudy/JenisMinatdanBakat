@@ -86,7 +86,7 @@
                         <!------------------------MASUKAN KEPADA SISTEM -------------------------------->                      
                      <?php 
                 }
-                
+              
                 else{
                     echo "<p>Jenis Minat Bakat Anak : <strong style='color:green'>".$row['isi_solusi']."</strong></p>";
                     echo "<p>Profesi : <strong style='color:green'>".$row['isi_profesi']."</strong></p>";
